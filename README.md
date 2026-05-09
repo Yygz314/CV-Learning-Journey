@@ -7,7 +7,7 @@
 
 
 ## 📅 学习周期
-配套公众号：视是片叶子呀 [CV漫笔](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk1NzkzOTQwNg==&action=getalbum&album_id=4508577796256055296#wechat_redirect) | 每周更新学习笔记
+配套公众号：是片叶子呀 [CV漫笔](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk1NzkzOTQwNg==&action=getalbum&album_id=4508577796256055296#wechat_redirect) | 每周更新学习笔记
 
 ## 📂 仓库结构
 - 01_Basic_Foundation：数学、Python、机器学习、OpenCV筑基
