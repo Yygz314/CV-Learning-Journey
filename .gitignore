@@ -1,0 +1,60 @@
+# OS / file manager
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+
+# C/C++ compiled artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.pdb
+*.ilk
+*.exp
+*.idb
+
+# Common build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Common ML model/checkpoint artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.tflite
+*.engine
+*.npy
+*.npz
